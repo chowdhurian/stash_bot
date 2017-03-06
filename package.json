@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "ramda": "^0.23.0",
     "request": "^2.80.0",
     "slimbot": "^0.5.6"
